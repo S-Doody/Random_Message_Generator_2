@@ -9,3 +9,5 @@ const jokePartOne = ['Knock knock. Who\'s there? ', 'Why did the ', 'Why don\'t 
 //Array of second part of joke
 const jokePartTwo = ['Lettuce. Lettuce who? ', 'chicken cross the road? ', 'trust atoms? ', 'the other ocean? ', 'The bartender looks up and says ']
 
+//Array of punchline
+const jokePunchline = ['Lettuce in, it\'s cold out here!', 'To get to the other side! ', 'Because they make up everything. ', 'Nothing, they just waved. ', '"What is this, a joke?"']
